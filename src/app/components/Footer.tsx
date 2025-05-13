@@ -4,7 +4,7 @@ import { SiWhatsapp } from 'react-icons/si';
 
 const Footer: React.FC = () => {
   return (
-    <footer className="relative bg-transparent py-8">
+    <footer className="relative bg-transparent py-8 bg-white">
       <div className="absolute inset-0 bg-white/25 backdrop-blur-lg"></div>
       <div className="relative max-w-6xl mx-auto px-4 lg:px-16">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
